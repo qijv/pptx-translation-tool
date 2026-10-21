@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.DS_Store
+*.tsbuildinfo
+vite.config.d.ts
+vite.config.js
+.playwright-mcp/
+/PPT翻译.png
+
+# Local configuration may contain deployment credentials. Only the template is public.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.local/

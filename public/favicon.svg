@@ -1,0 +1,10 @@
+<!-- Original geometric artwork for PPT-Translation. Copyright (c) 2026 qijv. MIT. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>PPT Translation</title>
+  <rect width="64" height="64" rx="15" fill="#17233b"/>
+  <rect x="9" y="13" width="29" height="23" rx="4" fill="#a9a2ff"/>
+  <path d="M15 20h15M15 26h10" fill="none" stroke="#17233b" stroke-width="3" stroke-linecap="round"/>
+  <rect x="26" y="29" width="29" height="23" rx="4" fill="#76e0bc"/>
+  <path d="M32 36h15M32 42h10" fill="none" stroke="#17233b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M43 14h8v8m0-8-9 9M21 50h-8v-8m0 8 9-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
